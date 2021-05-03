@@ -19,7 +19,7 @@
 * added glow to the menu. you can remove this if you want (how to do it is posted in Tweak.xm at the part where you can set the header title)
 * added "TAP ME.html" for more info
 
-* added optional watermark 
+* added optional watermark. if you enable watermark it will be positioned in the bottom left corner
   * <img src="https://i.ibb.co/NYGjkNt/A660-A98-C-8-FDA-4484-85-BE-E9583-CCC1-D63.jpg">
   
 * when making a new project with this template it will automatically generate encryption codes/obfuscation string so you dont have to do anything 
