@@ -32,7 +32,8 @@
 * you can easily check if everything is obfuscated/encrypted at the top of your Tweak.xm ⬇
   * <img src="https://i.ibb.co/hfm1gr5/73-A9-BB3-D-4-FC6-4-EDA-8-FD8-AA5-F1-F7-E0-B65.jpg">
 
-* added this to menu.mm. if you want to change this stuff you can but i dont recommend it.
+* added this to menu.mm. if you want to change switch height you can but i dont recommend it.
+* changing the color for divider and glow is fine tho
   * <img src="https://i.ibb.co/SQbMS3Z/682-BEF70-0959-4-E1-F-8-FFC-FC385-E34-D1-D3.jpg">
 
 
