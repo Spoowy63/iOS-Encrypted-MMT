@@ -14,6 +14,7 @@
 * gave the default menu a new look. if you dont like it change it :)
 * removed the menu icon in the header.
 * changed default menu icon
+* added glow to the menu. you can remove this if you want (how to do it is posted in Tweak.xm at the part where you can set the header title)
 * added "TAP ME.html" for more info
 
 * added optional watermark 
