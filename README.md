@@ -146,7 +146,7 @@ The sample.xm in the project shows an example project.
 
 ### Credits:
 * Me
-* [Ted2(Joey)](https://joeyjurjens)
+* [Ted2(Joey)](https://github.com/joeyjurjens)
   * For XOR encryption
   * For the original menu template
 * [MJx0](https://github.com/MJx0)
