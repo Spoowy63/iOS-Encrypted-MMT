@@ -8,7 +8,9 @@
 
 <br>
 
-### Changes:
+## IMPORTANT: MAKE SURE EVERYTHING IS ENCRYPTED/OBFUSCATED BEFORE COMPILING OR ELSE IT MIGHT CRASH
+
+### CHANGES:
 * all your offsets get encrypted with Joeys XOR encryption.
 * header text, switch names, switch description and watermark text get obfuscated. (its pretty much as strong as base64)
 * gave the default menu a new look. if you dont like it change it :)
