@@ -61,8 +61,14 @@
 You can download the template here: [Latest Release](https://github.com/Spoowy63/iOS-Encrypted-MMT/releases). <br>
 <b>Also follow the instructions below otherwise you will run into errors!<b> <br>
 <b>iOS:</b>
-1. In the makefile on line 22, you've to set the path to your SDK. This menu has been tested with the "iPhoneOS11.2.sdk" SDK from [theos/sdks](https://github.com/theos/sdks)
-2. I use initializer_list in this project, iOS doesn't have this included by itself. You can download it [<b>here</b>](https://raw.githubusercontent.com/joeyjurjens/iOS-Mod-Menu-Template-for-Theos/977e9ff2c626d6b1308eed7e17f1daf0a610e8e9/template/KittyMemory/initializer_list), save it as "initializer_list" and copy the file to: "$THEOS/sdks/iPhoneOS11.2.sdk/usr/include/c++/4.2.1/" <br>
+* step 1-5 are for mobile users i dont have a mac so i have no idea what to do on it. but step 6 and 7 are for both mac and mobile
+1. install theos to ***/var/theos*** if you havent already done that
+2.  copy the ***.nic.tar*** file to ***/var/theos/vendor/templates*** paste it there.
+3. open Newterm and login. now type this: ***/var/theos/bin/nic.pl*** you should see a list of templates. enter the number that corresponds to this template(Ted2's Encrypted MMT) 
+4. fill out the questions.
+5. done your project should be in ***/var/mobile***
+6. In the makefile on line 22, you've to set the path to your SDK. This menu has been tested with the "iPhoneOS11.2.sdk" SDK from [theos/sdks](https://github.com/theos/sdks)
+7. I use initializer_list in this project, iOS doesn't have this included by itself. You can download it [<b>here</b>](https://raw.githubusercontent.com/joeyjurjens/iOS-Mod-Menu-Template-for-Theos/977e9ff2c626d6b1308eed7e17f1daf0a610e8e9/template/KittyMemory/initializer_list), save it as "initializer_list" and copy the file to: "$THEOS/sdks/iPhoneOS11.2.sdk/usr/include/c++/4.2.1/" <br>
 
 <b>MacOS:</b>
 1. Install xCode if you haven't already.
