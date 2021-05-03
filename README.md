@@ -3,7 +3,7 @@
 <div style="text-align: center;">
 <b>Sample UI of the Menu:</b><br>
 
-<img src="https://i.ibb.co/6Y14hPB/98459-C9-F-5981-4521-B4-FE-12-D075354-D5-E.jpg">
+<img src="">
 </div>
 
 <br>
