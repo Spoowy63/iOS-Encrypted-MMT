@@ -3,10 +3,38 @@
 <div style="text-align: center;">
 <b>Sample UI of the Menu:</b><br>
 
-<img src="https://i.imgur.com/f20XTb4.png">
+<img src="https://i.ibb.co/6Y14hPB/98459-C9-F-5981-4521-B4-FE-12-D075354-D5-E.jpg">
 </div>
 
 <br>
+
+### Changes:
+* all your offsets get encrypted with Joeys XOR encryption.
+* header text, switch names, switch description and watermark text get obfuscated. (its pretty much as strong as base64)
+* gave the default menu a new look. if you dont like it change it :)
+* removed the menu icon in the header.
+* changed default menu icon
+* added "TAP ME.html" for more info
+
+* added optional watermark 
+  * <img src="https://i.ibb.co/NYGjkNt/A660-A98-C-8-FDA-4484-85-BE-E9583-CCC1-D63.jpg">
+  
+* when making a new project with this template it will automatically generate encryption codes/obfuscation string so you dont have to do anything 
+  * <img src="https://i.ibb.co/djj676V/1-D50-EDFD-7-E6-F-4542-A89-A-3-BD1171732-C7.jpg"> 
+  
+* added a folder named "HelperFiles"
+  * this folder contains 5 files. 2 for encrypting/decrypting offsets. 2 for obfuscating/deobfuscating some text.
+  * tap the encrypt/obf file to encrypt/obfuscate everything 
+  * tap the decrypt/deObf file to decrypt/deobfuscate everything
+  * make sure that everything is obfuscated/encrypted before you compile. 
+
+* you can easily check if everything is obfuscated/encrypted at the top of your Tweak.xm ⬇
+  * <img src="https://i.ibb.co/hfm1gr5/73-A9-BB3-D-4-FC6-4-EDA-8-FD8-AA5-F1-F7-E0-B65.jpg">
+
+* added this to menu.mm. if you want to change this stuff you can but i dont recommend it.
+  * <img src="https://i.ibb.co/SQbMS3Z/682-BEF70-0959-4-E1-F-8-FFC-FC385-E34-D1-D3.jpg">
+
+
 
 ### Features:
 * Customizable UI
@@ -116,6 +144,9 @@ The sample.xm in the project shows an example project.
 
 ### Credits:
 * Me
+* [Ted2(Joey)](https://joeyjurjens)
+  * For XOR encryption
+  * For the original menu template
 * [MJx0](https://github.com/MJx0)
   * For [KittyMemory](https://github.com/MJx0/KittyMemory)
   * For contributions
@@ -127,6 +158,4 @@ The sample.xm in the project shows an example project.
 <br>
 
 ### Contact:
-If you need support, you may discord me. 
-However, please don't spam me and give me as much information you can when you do so.
-<br> <b>Discord:</b> Joey#0309
+If you need support you can join my telegram group: https://t.me/Spoowy63
