@@ -25,6 +25,6 @@ if ! [ $githubReachable == 0  ]; then
 fi
 
 
-if ! [ $(curl -Ls https://github.com/joeyjurjens/iOS-Mod-Menu-Template-for-Theos/raw/master/template/versionCheck.sh | sed -n 2p) = "VERSION='$VERSION'"  ]; then
+if ! [ $(curl -Ls https://raw.githubusercontent.com/Spoowy63/iOS-Encrypted-MMT/Encrypted-MMT/ENCTemplate/versionCheck.sh | sed -n 2p) = "VERSION='$VERSION'"  ]; then
 	echo -e "${SUCCESS}A newer version of the template is available!"
 fi
